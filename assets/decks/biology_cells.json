@@ -1,0 +1,9 @@
+{
+  "id": "bio_cells",
+  "title": "Biology — Cells",
+  "cards": [
+    { "id": "1", "front": "What is a cell?", "back": "Basic unit of life." },
+    { "id": "2", "front": "Mitochondria function?", "back": "ATP production." }
+    // ... add up to 20
+  ]
+}
